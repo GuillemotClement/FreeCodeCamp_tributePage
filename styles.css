@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #FEECE6;
+}
+
+body{
+    width: 100%;
+    margin: 0;
+    background: #222D41;
+    padding: 0;
+}
+
+#main{
+    /* background-color: #374158; */
+    width: 80%;
+    margin: 5% auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 15px auto;
+    margin-bottom: 0;
+    width: 80%;
+    border-radius: 10px;
+}
+
+/* Unordored List */
+.dateOfLife{
+    list-style: none;
+    width: 70%;
+    margin-top: 20px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.textualInfo{
+    margin: 15px;
+}
+#title{
+    margin: 0;
+    font-weight: bolder;
+    text-decoration: underline solid;
+}
+.subTitle{
+    margin-top: 5px;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.italic{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.05rem;
+    text-decoration: underline solid;
+}
+
+#img-caption{
+    margin-top: 0;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+#tribute-link{
+    color: #FEECE6;
+    font-style: italic;
+}   
+
+.conclusion{
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.sousTitre{
+    margin-bottom: 30px;
+}
+
