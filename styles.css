@@ -22,6 +22,7 @@ body{
     margin: 5% auto;
     border-radius: 10px;
     padding: 10px;
+    max-width: 1400px;
 }
 
 img{
@@ -73,14 +74,20 @@ img{
 #tribute-link{
     color: #FEECE6;
     font-style: italic;
+    
 }   
 
 .conclusion{
-    margin-top: 40px;
     text-align: justify;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 40px;
 }
 
 .sousTitre{
     margin-bottom: 30px;
 }
 
+.moreInfo{
+    margin-top: 50px;
+}
